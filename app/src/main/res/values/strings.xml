@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Score Keeper</string>
     <string name="team_name">Enter Team Name</string>
+    <string name="goal">GOAL!!</string>
+    <string name="TeamA">Home Team</string>
+    <string name="TeamB">Guest Team</string>
+    <string name="reset">reset match statistics</string>
 </resources>

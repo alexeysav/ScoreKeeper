@@ -17,7 +17,6 @@ public class MainActivityCC extends AppCompatActivity {
     int scoreTeamA = 0;
     int yCardTeamA = 0;
     int rCardTeamA = 0;
-
     // Tracks the score for Team B
     int scoreTeamB = 0;
     int yCardTeamB = 0;
